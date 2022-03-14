@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @willianfco
 - 👀 I’m interested in data science for healthcare
 - 🌱 I’m currently studying Deep Learning and MLOps 
-- 💞️ I’m looking to collaborate on projects of innovation for brazilian healthcare system (SUS) 
+- 💞️ I’m looking forward to collaborate on projects of innovation for brazilian healthcare system (SUS) 
 - 📫 You can reach me on my linkedin (ln/willianfco) or by e-mail (willianoliveira@saude.es.gov.br)
 
 <!---
